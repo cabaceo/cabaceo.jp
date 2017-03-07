@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "コンサルティングのご利用"
+    url: /consulting/
+  #- title: "Pricing"
+  #  url: /pricing/
+  - title: "トップメッセージ"
+    url: /about/
+  # - title: "Blogs"
+  #   url: //
+  # - title: "Sitemap"
+  #   url: /sitemap/
