@@ -580,3 +580,44 @@ ru-RU:
 
 # Another locale
 # --------------
+
+# Japanese (default)
+# -----------------
+jp: &DEFAULT_JP
+  page                       : "ページ"
+  pagination_previous        : "前のページ"
+  pagination_next            : "次のページ"
+  breadcrumb_home_label      : "ホーム"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Toggle メニュー"
+  toc_label                  : "ページ上"
+  ext_link_label             : "リンク"
+  less_than                  : "以下"
+  minute_read                : "分　表示"
+  share_on_label             : # "共有する"
+  meta_label                 :
+  tags_label                 : "タグ:"
+  categories_label           : "カテゴリー:"
+  date_label                 : "更新日:"
+  comments_label             : # "コメントする"
+  comments_title             : "コメント"
+  more_label                 : "詳細を確認する"
+  related_label              : "関連項目"
+  follow_label               : "フォロー:"
+  feed_label                 : "フェード"
+  powered_by                 : "Powered by"
+  website_label              : "ウェブサイト"
+  email_label                : "メール"
+  recent_posts               : "最新の記事"
+  undefined_wpm              : "未定義パラメーター words_per_minute at _config.yml"
+  comment_form_info          : "メールアドレスは一切公開されません。マークされた項目を入力して下さい。"
+  comment_form_comment_label : "コメント"
+  comment_form_md_info       : "マークダウンを、ご利用になれます。"
+  comment_form_name_label    : "名前"
+  comment_form_email_label   : "メールアドレス"
+  comment_form_website_label : "ウェブサイト（任意）"
+  comment_btn_submit         : "送信する"
+  comment_btn_submitted      : "送信しました。"
+  comment_success_msg        : "いただいたコメントは承認後サイトに反映されます。また承認には数日かかる場合があります。"
+  comment_error_msg          : "リクエストを完了できませんでした。すべての項目を入力してください。"
+  loading_label              : "読み込み中..."

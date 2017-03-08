@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /prediction/
-title: "顧客分析、統計的予測モデル"
+title: "統計的予測モデル"
 header:
   overlay_image: /assets/images/bg.jpg
   overlay_filter: rgba(139, 134, 163, 0.7)
