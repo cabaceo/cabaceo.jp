@@ -20,7 +20,7 @@ header:
 ## サービスの費用の事例
 お客様のプロジェクトの規模に応じた費用を算出いたします。
 
-1チャート付属のShinyアプリケーション：5600円（[例1](https://cabaceo.com/shiller-pe/)、[例2]((https://cabaceo.com/berkshire-vs-sp500/))）
+1チャート付属のShinyアプリケーション：5600円（[例1](https://cabaceo.com/shiller-pe/)、[例2](https://cabaceo.com/berkshire-vs-sp500/))
 
 機械学習アルゴリズムを適用したShinyアプリケーション：457,000円
 
