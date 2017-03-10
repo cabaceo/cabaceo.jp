@@ -8,10 +8,14 @@ header:
   cta_label: ""
   cta_url: 
 gallery:
-  - url: https://cabaceo.shinyapps.io/mdjp/
+  - url: https://gmlang.shinyapps.io/mdjp-jp/
     image_path: /assets/images/shiny/mdjp.jpg
-    alt: "Marriages and Divorces of Japanese Nationals"
-    title: "Marriages and Divorces of Japanese Nationals"
+    alt: "統計で分かる日本の婚姻率と離婚率のデータ"
+    title: "統計で分かる日本の婚姻率と離婚率のデータ"
+  - url: https://darunma.shinyapps.io/gold/
+    image_path: /assets/images/shiny/goldjp.jpg
+    alt: "データで見る金価格の推移｜ロングチャート"
+    title: "データで見る金価格の推移｜ロングチャート"
   - url: https://cabaceo.shinyapps.io/quantdp/
     image_path: /assets/images/shiny/quantdp.jpg
     alt: "Backtest Portfolio Dynamic rebalancing strategies, a demo"
