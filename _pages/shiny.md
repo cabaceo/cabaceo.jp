@@ -22,8 +22,12 @@ gallery:
     title: "Backtest portfolio rebalancing strategies using vanguard index funds"
   - url: https://cabaceo.shinyapps.io/tsplotr/
     image_path: /assets/images/shiny/tsplotr.jpg
-    alt: "tsplotr demo"
-    title: "Visualize the trend of an example real estate market dataset"    
+    alt: "tsplotr"
+    title: "Visualize the trend of an example real estate     market dataset"    
+  - url: https://cabaceo.shinyapps.io/linreg/
+    image_path: /assets/images/shiny/linreg.jpg
+    alt: "linreg"
+    title: "A tool for training linear regression model"            
   - url: http://app.cabaceo.com/app/imdb/www
     image_path: /assets/images/shiny/imdb.jpg
     alt: "IMDB movies data analysis and visualization"
