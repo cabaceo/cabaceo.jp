@@ -28,6 +28,10 @@ gallery:
     image_path: /assets/images/shiny/linreg.jpg
     alt: "linreg"
     title: "A tool for training linear regression model"            
+  - url: https://gmlang.shinyapps.io/SSCRC/
+    image_path: /assets/images/shiny/sscrc.jpg
+    alt: "SSCRC"
+    title: "Sample Size and Power Calculation in Clinical Trials"        
   - url: http://app.cabaceo.com/app/imdb/www
     image_path: /assets/images/shiny/imdb.jpg
     alt: "IMDB movies data analysis and visualization"
@@ -40,6 +44,7 @@ gallery:
     image_path: /assets/images/shiny/plotr.jpg
     alt: "plotr"
     title: "A tool for exploratory analysis"
+  
 feature_row:
   - url: /consulting/
     btn_label: "弊社のサービスに関するお問い合わせ"      
