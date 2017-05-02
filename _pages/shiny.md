@@ -9,41 +9,49 @@ header:
   cta_url: 
 gallery:
   - url: https://darunma.shinyapps.io/mdjp-jp/
-    image_path: /assets/images/shiny/mdjp.jpg
+    image_path: /assets/images/shiny/mdjp-jp-clipped.png
     alt: "統計で分かる日本の婚姻率と離婚率のデータ"
     title: "統計で分かる日本の婚姻率と離婚率のデータ"
+
   - url: https://darunma.shinyapps.io/gold/
-    image_path: /assets/images/shiny/goldjp.jpg
+    image_path: /assets/images/shiny/gold-clipped.png
     alt: "データで見る金価格の推移｜ロングチャート"
     title: "データで見る金価格の推移｜ロングチャート"
+
+  - url: https://cabaceo.shinyapps.io/gurunavi-jp/
+    image_path: /assets/images/shiny/gurunavi-jp-clipped.png
+    alt: "gurunavi-jp"
+    title: "ぐるなび | レストランを検索"
+
+  - url: https://cabaceo.shinyapps.io/airbnb-japan/
+    image_path: /assets/images/shiny/airbnb-japan-clipped.png
+    alt: "Airbnb-Japan"
+    title: "Quick search for Airbnb listings in Japan"        
+  
+  - url: https://cabaceo.shinyapps.io/airbnb-taiwan/
+    image_path: /assets/images/shiny/airbnb-taiwan-clipped.png
+    alt: "Airbnb-Taiwan"
+    title: "Quick search for Airbnb listings in Taiwan"        
+  
+  - url: https://cabaceo.com/berkshire-vs-sp500/
+    image_path: /assets/images/shiny/berkshire-vs-sp500-clipped.png
+    alt: "Berkshire vs. S&P 500"
+    title: "Berkshire vs. S&P 500"
+    
+  - url: https://cabaceo.com/shiller-pe/
+    image_path: /assets/images/shiny/shiller-pe-clipped.png
+    alt: "Shiller PE"
+    title: "Shiller PE"
+
   - url: https://cabaceo.shinyapps.io/quantdp/
-    image_path: /assets/images/shiny/quantdp.jpg
-    alt: "Backtest Portfolio Dynamic rebalancing strategies, a demo"
-    title: "Backtest portfolio rebalancing strategies using vanguard index funds"
-  - url: https://cabaceo.shinyapps.io/tsplotr/
-    image_path: /assets/images/shiny/tsplotr.jpg
-    alt: "tsplotr"
-    title: "Visualize the trend of an example real estate     market dataset"    
-  - url: https://cabaceo.shinyapps.io/linreg/
-    image_path: /assets/images/shiny/linreg.jpg
-    alt: "linreg"
-    title: "A tool for training linear regression model"            
+    image_path: /assets/images/shiny/quantdp-clipped.png
+    alt: "Backtest Portfolio Dynamic rebalancing strategies Demo"
+    title: "Backtest portfolio rebalancing strategies using vanguard index funds demo"
+
   - url: https://gmlang.shinyapps.io/SSCRC/
-    image_path: /assets/images/shiny/sscrc.jpg
+    image_path: /assets/images/shiny/SSCRC-clipped.png
     alt: "SSCRC"
     title: "Sample Size and Power Calculation in Clinical Trials"        
-  - url: http://app.cabaceo.com/app/imdb/www
-    image_path: /assets/images/shiny/imdb.jpg
-    alt: "IMDB movies data analysis and visualization"
-    title: "IMDB Movies Data Analysis"
-  - url: http://app.cabaceo.com/app/phph/www
-    image_path: /assets/images/shiny/phph.jpg
-    alt: "Survival Models for Time to Breast Cancer"
-    title: "Use Survival Models to Study the Effect of Radiotherapy on Time to Breast Cancer"
-  - url: https://cabaceo.shinyapps.io/plotr/
-    image_path: /assets/images/shiny/plotr.jpg
-    alt: "plotr"
-    title: "A tool for exploratory analysis"
   
 feature_row:
   - url: /consulting/
