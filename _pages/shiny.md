@@ -8,7 +8,7 @@ header:
   cta_label: ""
   cta_url: 
 gallery:
-  - url: https://gmlang.shinyapps.io/mdjp-jp/
+  - url: https://darunma.shinyapps.io/mdjp-jp/
     image_path: /assets/images/shiny/mdjp.jpg
     alt: "統計で分かる日本の婚姻率と離婚率のデータ"
     title: "統計で分かる日本の婚姻率と離婚率のデータ"
