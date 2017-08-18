@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "郎广明"
+  name             : "郎広明"
   avatar           : "/assets/images/bio-gmlang.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "チーフデータサイエンティスト"
   location         : "Ann Arbor, Michigan, USA"
